@@ -13,9 +13,8 @@
     }
 }
 
-.page-header {
-    color: #fff;
+@media screen and (max-width: 42em) {
+    .page-header {
     text-align: right;
-    background-color: #159957;
-    background-image: linear-gradient(120deg, #155799, #159957)
+    }
 }
