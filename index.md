@@ -26,9 +26,9 @@ layout: default
 [Introduction to Data Science](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2023
 
 ## Projects
-[HSL: Satisfaction Analysis](https://github.com/chaowang0524/chaowang0524.github.io)
+[HSL: Satisfaction Analysis](https://github.com/chaowang0524/Project_HSL)
 
-[Food 101 Plus Pro Max Ultra](https://github.com/chaowang0524/chaowang0524.github.io)
+[Food 101 Plus Pro Max Ultra](https://github.com/chaowang0524/Food_101_Plus_Pro_Max_Ultra)
 
 [Command-Line Tools Github Page](https://github.com/chaowang0524/chaowang0524.github.io)
 
