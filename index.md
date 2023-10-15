@@ -10,13 +10,12 @@ layout: default
 [LinkedIn](www.linkedin.com/in/chaowang0524)
 
 
-[GitHub](https://github.com/chaowang0524))
+[GitHub](https://github.com/chaowang0524)
 
 ## Contact
 
 [chao.wang@helsinki.fi](mailto:chao.wang@helsinki.fi)
 
-[chaowang0524@outlook.com](mailto:chaowang0524@outlook.com)
 
 ## Courses I've Taken
 
@@ -34,5 +33,4 @@ layout: default
 [Command-Line Tools Github Page](https://github.com/chaowang0524/chaowang0524.github.io)
 
 ## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[My Photography Portfolio (TBA)](https://github.com/chaowang0524/chaowang0524.github.io)
