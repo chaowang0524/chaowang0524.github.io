@@ -11,7 +11,8 @@ layout: default
 
 ## Contact
 
-chao.wang@helsinki.fi
+[chao.wang@helsinki.fi](mailto:chao.wang@helsinki.fi)
+[chaowang0524@outlook.com](mailto:chaowang0524@outlook.com)
 
 ## Courses I've Taken
 
@@ -22,6 +23,11 @@ chao.wang@helsinki.fi
 [Introduction to Data Science](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2023
 
 ## Projects
+[HSL: Satisfaction Analysis](https://github.com/chaowang0524/chaowang0524.github.io)
+
+[Food 101 Plus Pro Max Ultra](https://github.com/chaowang0524/chaowang0524.github.io)
+
+[Command-Line Tools Github Page](https://github.com/chaowang0524/chaowang0524.github.io)
 
 ## Misc. 
 
