@@ -11,13 +11,13 @@ layout: default
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+chao.wang@helsinki.fi
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Command-Line Tools for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2023
+[Introduction to Linguistic Diversity and Digital Humanities](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), fall 2023
+[Introduction to Data Science](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2023
 
 ## Projects
 
