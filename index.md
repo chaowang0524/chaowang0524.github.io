@@ -4,8 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, I'm Chao Wang, a postgraduate student at the University of Helsinki. I just started my first year in the track of Language Technology. I used to be an English-Chinese interpreter and now I'm very excited about integrating language with the power of AI. 
 ## Find me on
 
 [LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
