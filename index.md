@@ -33,4 +33,4 @@ layout: default
 [Command-Line Tools Github Page](https://github.com/chaowang0524/chaowang0524.github.io)
 
 ## Misc. 
-[My Photography Portfolio (TBA)](https://github.com/chaowang0524/chaowang0524.github.io)
+[My Photography Portfolio (TBA)](https://chaowang0524.github.io/)
