@@ -13,12 +13,11 @@ layout: default
 
 [GitHub](https://github.com/chaowang0524)
 
-[Check my CV](https://www.overleaf.com/read/mcchsqbptxfs)
-
 ## Contact
 
 [chao.wang@helsinki.fi](mailto:chao.wang@helsinki.fi)
 
+[CV](https://www.overleaf.com/read/mcchsqbptxfs)
 
 ## Courses I've Taken
 
