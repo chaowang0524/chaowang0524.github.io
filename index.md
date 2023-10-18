@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](www.linkedin.com/in/chaowang0524)
+[LinkedIn](https://linkedin.com/in/chaowang0524)
 
 
 [GitHub](https://github.com/chaowang0524)
