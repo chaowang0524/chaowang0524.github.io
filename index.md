@@ -30,7 +30,7 @@ layout: default
 ## Projects
 [HSL: Satisfaction Analysis](https://github.com/chaowang0524/Project_HSL)
 
-[Food 101 Plus Pro Max Ultra](https://github.com/chaowang0524/Food_101_Plus_Pro_Max_Ultra)
+[Food 101 Plus](https://github.com/chaowang0524/Food_101_Plus)
 
 [Command-Line Tools Github Page](https://github.com/chaowang0524/chaowang0524.github.io)
 
